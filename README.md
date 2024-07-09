@@ -5,7 +5,7 @@ This repo is an  extension of the starter code for the Route Planning project. T
 <img src="map.png" width="600" height="450" />
 
 ## Result 
-<img src="project1_result1.PNG" width="600" height="450" />
+<img src="project1_result1.PNG" width="400" height="500" />
 
 ## Cloning
 
